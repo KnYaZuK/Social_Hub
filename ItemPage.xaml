@@ -33,7 +33,9 @@
             TODO: Content should be placed within the following grid 
                   to show details for the current item
         -->
-        <Grid Grid.Row="1" x:Name="contentRegion"/>
+        <Grid Grid.Row="1" x:Name="contentRegion">
+            <TextBlock x:Name="textBlock" Margin="10,10,0,0" TextWrapping="Wrap" Text="{Binding Content, Mode=OneWay}" Height="608" Width="1346" FontSize="18" HorizontalAlignment="Left" TextAlignment="Justify" VerticalAlignment="Top"/>
+        </Grid>
 
         <!-- Back button and page title -->
         <Grid>

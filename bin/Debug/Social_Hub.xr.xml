@@ -12,6 +12,7 @@
     <RootPropertyPathName Name="Group" />
     <RootPropertyPathName Name="Subtitle" />
     <RootPropertyPathName Name="Item" />
+    <RootPropertyPathName Name="Content" />
   </Roots.PropertyPathNames>
   <Roots.RootTypes>
     <RootType FullName="Windows.UI.Xaml.Application">
@@ -27,6 +28,7 @@
       <RootProperty Name="RelativeSource" />
       <RootProperty Name="ElementName" />
       <RootProperty Name="Source" />
+      <RootProperty Name="Mode" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Data.RelativeSource" />
     <RootType FullName="Windows.UI.Xaml.DataTemplate">
@@ -73,6 +75,10 @@
       <RootProperty Name="IsHitTestVisible" />
       <RootProperty Name="Margin" />
       <RootProperty Name="FontSize" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="TextAlignment" />
     </RootType>
     <RootType FullName="Microsoft.Xaml.Tools.DirectUI.ProxyTypes.StaticResourceExtension" />
     <RootType FullName="Microsoft.Xaml.Tools.DirectUI.ProxyTypes.ThemeResourceExtension" />
