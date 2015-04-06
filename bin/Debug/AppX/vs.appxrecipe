@@ -8,7 +8,7 @@
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>762a29b9-ad96-46ec-a6d8-d6f4e4e872f5</PackageIdentityName>
     <IntermediateOutputPath>G:\_Cloud\GitHub\Social_Hub\obj\Debug\</IntermediateOutputPath>
-    <RegisteredManifestChecksum>8B90E3194E16AFC3B7BD997EE022E3BE8F7264078F3761E971AD34A21EDBEE00</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>5727214705F078F7250D73A730D7265287B6E132629B751043BDC866E5664C0F</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>762a29b9-ad96-46ec-a6d8-d6f4e4e872f5_1.0.0.0_neutral__k7tfm8dnpxb46</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>762a29b9-ad96-46ec-a6d8-d6f4e4e872f5_k7tfm8dnpxb46!App</RegisteredUserModeAppID>
     <RegisteredPackageID>762a29b9-ad96-46ec-a6d8-d6f4e4e872f5</RegisteredPackageID>
@@ -20,17 +20,17 @@
     <AppXManifest Include="G:\_Cloud\GitHub\Social_Hub\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-04-05T20:05:20.477</Modified>
+      <Modified>2015-04-06T08:33:12.202</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="G:\_Cloud\GitHub\Social_Hub\bin\Debug\Social_Hub.exe">
       <PackagePath>Social_Hub.exe</PackagePath>
-      <Modified>2015-04-05T20:05:20.358</Modified>
+      <Modified>2015-04-06T08:55:45.303</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\_Cloud\GitHub\Social_Hub\DataModel\SampleData.json">
       <PackagePath>DataModel\SampleData.json</PackagePath>
-      <Modified>2015-04-05T20:15:09.590</Modified>
+      <Modified>2015-04-06T09:17:32.276</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\_Cloud\GitHub\Social_Hub\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
@@ -70,23 +70,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\_Cloud\GitHub\Social_Hub\bin\Debug\HubPage.xbf">
       <PackagePath>HubPage.xbf</PackagePath>
-      <Modified>2015-04-05T20:05:20.248</Modified>
+      <Modified>2015-04-06T08:55:45.122</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\_Cloud\GitHub\Social_Hub\bin\Debug\SectionPage.xbf">
       <PackagePath>SectionPage.xbf</PackagePath>
-      <Modified>2015-04-05T20:05:20.250</Modified>
+      <Modified>2015-04-06T08:55:45.123</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\_Cloud\GitHub\Social_Hub\bin\Debug\ItemPage.xbf">
       <PackagePath>ItemPage.xbf</PackagePath>
-      <Modified>2015-04-05T20:05:20.251</Modified>
+      <Modified>2015-04-06T08:49:03.124</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\_Cloud\GitHub\Social_Hub\bin\Debug\Social_Hub.xr.xml">
       <PackagePath>Social_Hub.xr.xml</PackagePath>
-      <Modified>2015-04-05T20:05:20.229</Modified>
+      <Modified>2015-04-06T08:55:45.082</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\_Cloud\GitHub\Social_Hub\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-04-05T20:13:53.431</Modified>
+      <Modified>2015-04-06T09:11:42.598</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
