@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KNYAZUK-DESKTOP</Machine>
+    <WindowsUser>Denis</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>762a29b9-ad96-46ec-a6d8-d6f4e4e872f5</PackageIdentityName>
+    <IntermediateOutputPath>G:\_Cloud\GitHub\Social_Hub\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>8B90E3194E16AFC3B7BD997EE022E3BE8F7264078F3761E971AD34A21EDBEE00</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>762a29b9-ad96-46ec-a6d8-d6f4e4e872f5_1.0.0.0_neutral__k7tfm8dnpxb46</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>762a29b9-ad96-46ec-a6d8-d6f4e4e872f5_k7tfm8dnpxb46!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>762a29b9-ad96-46ec-a6d8-d6f4e4e872f5</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Denis</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="G:\_Cloud\GitHub\Social_Hub\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-05T20:05:20.477</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="G:\_Cloud\GitHub\Social_Hub\bin\Debug\Social_Hub.exe">
+      <PackagePath>Social_Hub.exe</PackagePath>
+      <Modified>2015-04-05T20:05:20.358</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\_Cloud\GitHub\Social_Hub\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2015-04-05T20:15:09.590</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\_Cloud\GitHub\Social_Hub\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-21T06:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\_Cloud\GitHub\Social_Hub\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-21T06:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\_Cloud\GitHub\Social_Hub\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-21T06:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\_Cloud\GitHub\Social_Hub\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-21T06:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\_Cloud\GitHub\Social_Hub\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2015-01-21T06:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\_Cloud\GitHub\Social_Hub\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2015-01-21T06:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\_Cloud\GitHub\Social_Hub\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2015-01-21T06:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\_Cloud\GitHub\Social_Hub\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-04-05T20:05:20.246</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\_Cloud\GitHub\Social_Hub\bin\Debug\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+      <Modified>2015-04-05T20:05:20.248</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\_Cloud\GitHub\Social_Hub\bin\Debug\SectionPage.xbf">
+      <PackagePath>SectionPage.xbf</PackagePath>
+      <Modified>2015-04-05T20:05:20.250</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\_Cloud\GitHub\Social_Hub\bin\Debug\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+      <Modified>2015-04-05T20:05:20.251</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\_Cloud\GitHub\Social_Hub\bin\Debug\Social_Hub.xr.xml">
+      <PackagePath>Social_Hub.xr.xml</PackagePath>
+      <Modified>2015-04-05T20:05:20.229</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\_Cloud\GitHub\Social_Hub\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-04-05T20:13:53.431</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
