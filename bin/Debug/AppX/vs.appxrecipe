@@ -26,7 +26,7 @@
   <ItemGroup>
     <AppxPackagedFile Include="G:\_Cloud\GitHub\Social_Hub\bin\Debug\Social_Hub.exe">
       <PackagePath>Social_Hub.exe</PackagePath>
-      <Modified>2015-04-06T09:31:12.862</Modified>
+      <Modified>2015-04-06T10:18:41.398</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\_Cloud\GitHub\Social_Hub\DataModel\SampleData.json">
       <PackagePath>DataModel\SampleData.json</PackagePath>
@@ -78,11 +78,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\_Cloud\GitHub\Social_Hub\bin\Debug\ItemPage.xbf">
       <PackagePath>ItemPage.xbf</PackagePath>
-      <Modified>2015-04-06T09:31:12.764</Modified>
+      <Modified>2015-04-06T10:18:41.288</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\_Cloud\GitHub\Social_Hub\bin\Debug\Social_Hub.xr.xml">
       <PackagePath>Social_Hub.xr.xml</PackagePath>
-      <Modified>2015-04-06T09:31:12.751</Modified>
+      <Modified>2015-04-06T10:18:41.273</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\_Cloud\GitHub\Social_Hub\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>

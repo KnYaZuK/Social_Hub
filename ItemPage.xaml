@@ -34,7 +34,9 @@
                   to show details for the current item
         -->
         <Grid Grid.Row="1" x:Name="contentRegion">
-            <TextBlock x:Name="textBlock" Margin="10,10,0,0" TextWrapping="Wrap" Text="{Binding Content, Mode=OneWay}" Height="608" Width="1346" FontSize="18" HorizontalAlignment="Left" TextAlignment="Justify" VerticalAlignment="Top"/>
+            <ScrollViewer>
+                <TextBlock TextWrapping="Wrap" Text="{Binding Content, Mode=OneWay}" FontSize="24" Width="1150" />
+            </ScrollViewer>
         </Grid>
 
         <!-- Back button and page title -->
